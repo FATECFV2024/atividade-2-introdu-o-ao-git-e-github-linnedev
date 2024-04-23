@@ -1,7 +1,12 @@
 import java.util.Scanner;
 
 public class App {
-        //Comentário
+//Nome Completo: Aline Almeida dos Santos;
+//RA: 2920482121034
+//Idade: 24
+//gitHub: linnedev
+//LinkedIn:https://www.linkedin.com/in/alinealmeida012/
+//Curso e Turma: Análise e Desenvolvimento de Sistemas - 4º Semestre
 
     public static void funcao_teste (){
         //Biblioteca para entrada de dados
